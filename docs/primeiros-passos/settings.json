@@ -1,5 +1,13 @@
 {
   "title": "Primeiros Passos",
   "description": "Confira os primeiros passos para configurar o sistema para sua clínica.",
-  "icon": "Footprints"
+  "icon": "Footprints",
+  "docs": {
+    "1-1-configuracoes-da-clinica": {
+      "title": "1.1 Configurações da Clínica"
+    },
+    "1-2-estoques-de-produtos": {
+      "title": "1.2 Estoques de Produtos"
+    }
+  }
 }

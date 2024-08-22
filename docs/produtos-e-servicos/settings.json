@@ -1,5 +1,10 @@
 {
   "title": "Produtos e Serviços",
   "description": "Melhore a gestão da sua clínica com as ferramentas de produtos e serviços.",
-  "icon": "Package"
+  "icon": "Package",
+  "docs": {
+    "2-2-configurar-comissoes-do-sistema": {
+      "title": "2.2 Configurar comissões do sistema"
+    }
+  }
 }
