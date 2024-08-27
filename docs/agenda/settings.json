@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "title": "Agenda",
+  "description": "Aprenda a utilizar a área da agenda.",
+  "icon": "Book",
+  "docs": [
+    {
+      "title": "6.1 Lançar atividade na agenda",
+      "slug": "6-1-lancar-atividade-na-agenda"
+    },
+    {
+      "title": "6.2 Alterar atividades",
+      "slug": "6-2-alterar-atividades"
+    },
+    {
+      "title": "6.3 Configurações",
+      "slug": "6-3-configuracoes"
+    },
+    {
+      "title": "6.4 Agenda vinculada com vacina",
+      "slug": "6-4-agenda-vinculada-com-vacina"
+    },
+    {
+      "title": "6.5 Agenda vinculada com atendimento",
+      "slug": "6-5-agenda-vinculada-com-atendimento"
+    },
+    {
+      "title": "6.6 Histórico de agendamento na ficha do cliente",
+      "slug": "6-6-historico-de-agendamento-na-ficha-do-cliente"
+    }
+  ]
+}

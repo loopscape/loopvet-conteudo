@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "title": "Internação",
+  "description": "Aprenda a utilizar o módulo de internação.",
+  "icon": "FirstAidKit",
+  "docs": [
+    {
+      "title": "5.1 Entrada na internação",
+      "slug": "5-1-entrada-na-internacao"
+    },
+    {
+      "title": "5.2 Mover box da internação",
+      "slug": "5-2-mover-box-da-internacao"
+    },
+    {
+      "title": "5.3 Lançar prescrições",
+      "slug": "5-3-lancar-prescricoes"
+    },
+    {
+      "title": "5.4 Lançar notas",
+      "slug": "5-4-lancar-notas"
+    },
+    {
+      "title": "5.5 Lançar peso",
+      "slug": "5-5-lancar-peso"
+    },
+    {
+      "title": "5.6 Grade de procedimentos",
+      "slug": "5-6-grade-de-procedimentos"
+    },
+    {
+      "title": "5.7 Aplicar procedimentos",
+      "slug": "5-7-aplicar-procedimentos"
+    },
+    {
+      "title": "5.8 Ponto de venda na internação",
+      "slug": "5-8-ponto-de-venda-na-internacao"
+    },
+    {
+      "title": "5.9. Histórico de internações",
+      "slug": "5-9-historico-de-internacoes"
+    },
+    {
+      "title": "5.10 Dar alta ou atestar óbito",
+      "slug": "5-10-dar-alta-ou-atestar-obito"
+    },
+    {
+      "title": "5.11 Cancelar internação",
+      "slug": "5-11-cancelar-internacao"
+    }
+  ]
+}
