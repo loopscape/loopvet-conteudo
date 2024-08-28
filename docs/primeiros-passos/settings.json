@@ -15,6 +15,54 @@
     {
       "title": "1.3 Grupos de comissões de usuários",
       "slug": "1-3-grupos-de-comissoes-de-usuarios"
+    },
+    {
+      "title": "1.4 Cargos de usuários",
+      "slug": "1-4-cargos-de-usuarios"
+    },
+    {
+      "title": "1.5 Categorias de produtos e serviços",
+      "slug": "1-5-categorias-de-produtos-e-servicos"
+    },
+    {
+      "title": "1.6 Unidades de medida de produtos",
+      "slug": "1-6-unidades-de-medida-de-produtos"
+    },
+    {
+      "title": "1.7 Grupos de comissões de produtos e serviços",
+      "slug": "1-7-grupos-de-comissoes-de-produtos-e-servicos"
+    },
+    {
+      "title": "1.8 Contas financeiras da empresa",
+      "slug": "1-8-contas-financeiras-da-empresa"
+    },
+    {
+      "title": "1.9 Formas de Pagamento",
+      "slug": "1-9-formas-de-pagamento"
+    },
+    {
+      "title": "1.10 Configuração da Agenda",
+      "slug": "1-10-configuracao-da-agenda"
+    },
+    {
+      "title": "1.11 &#8211; Usuários no sistema",
+      "slug": "1-11-usuarios-no-sistema"
+    },
+    {
+      "title": "1.12 Espécies",
+      "slug": "1-12-especies"
+    },
+    {
+      "title": "1.13 Raças",
+      "slug": "1-13-racas"
+    },
+    {
+      "title": "1.14 Pelagens",
+      "slug": "1-14-pelagens"
+    },
+    {
+      "title": "1.15 Patologias",
+      "slug": "1-15-patologias"
     }
   ]
 }
