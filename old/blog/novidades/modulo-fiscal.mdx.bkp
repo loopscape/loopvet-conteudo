@@ -1,0 +1,24 @@
+---
+title: Módulo Fiscal
+description: Aprenda a utilizar o novo módulo fiscal do Sistema Loopvet, que permite a emissão e consulta de notas fiscais diretamente pela interface do sistema.
+date: "2024-04-01"
+image: "/images/blog/modulo-fiscal.jpg"
+authors:
+  - Julio Cesar Moratelli
+---
+
+O Módulo Fiscal é uma funcionalidade do sistema que permite a emissão e consulta de notas fiscais diretamente pela interface do Sistema Loopvet. Com esse módulo será possível emitir duas notas fiscais por ordem de venda, sendo uma para a venda de produtos (NFC-e) e outra para os serviços prestados (NFS-e).
+
+Vale ressaltar que o Módulo Fiscal está em versão beta, significando assim que pode ocorrer algumas instabilidades durante esse período.
+
+Atualmente nosso Módulo Fiscal comporta apenas a emissão de NFC-e (Nota Fiscal de Consumidor Eletrônica). O NFC-e é a nota fiscal de venda de produtos para consumidor final, não sendo possível ainda fazer a emissão de notas referentes a prestação de serviços.
+
+### Valor do Módulo Fiscal
+
+Como o módulo fiscal encontra-se em versão beta, este serviço não terá custos adicionais durante esta fase. O período da versão beta pode variar e não possui data determinada para encerrar.
+
+Após o período da versão beta o módulo fiscal terá valor adicional de R$ 97,90 por mês. Todos os clientes que estiverem utilizando o Módulo Fiscal serão comunicados com uma semana de antecedência, para assim poderem realizar a contratação.
+
+### Requisitos para utilização do Módulo Fiscal
+
+Para utilizar o Módulo Fiscal é necessário que o cliente possua um certificado digital A1 ou A3. O certificado digital é um documento eletrônico que identifica seguramente pessoas, empresas, sistemas e informações no mundo. Ele garante autenticidade, confidencialidade, integridade e não repúdio nas operações que são realizadas por meio dele, atribuindo validade jurídica.

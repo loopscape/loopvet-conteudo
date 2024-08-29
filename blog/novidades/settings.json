@@ -1,0 +1,22 @@
+{
+  "title": "Novidades",
+  "description": "Aqui estão listados todas as novas funcionalidades do sistema.",
+  "posts": [
+    {
+      "title": "Versão 2.0.0",
+      "slug": "v-2.0.0",
+      "description": "Lançamento da versão 2.0.0 do sistema.",
+      "date": "2024-08-13",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
+    },
+    {
+      "title": "Módulo Fiscal",
+      "slug": "modulo-fiscal",
+      "description": "Lançamento do módulo fiscal no sistema.",
+      "date": "2024-05-11",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
+    }
+  ]
+}
