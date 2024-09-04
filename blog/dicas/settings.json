@@ -7,7 +7,15 @@
       "slug": "alimentacao-saudavel",
       "description": "Mantenha seu cão saudável, escolha alimentos de qualidade, atenção às porções, variedade na dieta, horários regulares, água fresca e consulte um veterinário.",
       "date": "2024-03-23",
-      "authors": ["Julio Moranguete"],
+      "authors": ["Julio Moratelli"],
+      "banner": "/banner.webp"
+    },
+    {
+      "title": "A Importância de um Sistema de Gestão para o Sucesso da Sua Empresa",
+      "slug": "sistema-gestao-sucesso-empresa",
+      "description": "Em um mundo empresarial cada vez mais competitivo e dinâmico, a eficiência operacional e a tomada de decisões informadas são cruciais para o sucesso de qualquer empreendimento.",
+      "date": "2024-03-18",
+      "authors": ["Julio Moratelli"],
       "banner": "/banner.webp"
     }
   ]

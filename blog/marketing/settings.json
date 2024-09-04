@@ -1,0 +1,30 @@
+{
+  "title": "Marketing",
+  "description": "Aqui estão dicas sobre marketing para a sua clínica veterinária.",
+  "posts": [
+    {
+      "title": "Por que contratar um sistema veterinário online?",
+      "slug": "porque-sistema-veterinario",
+      "description": "Descubra as vantagens dos sistemas veterinários online, acesso remoto, mobilidade e recursos avançados. Experimente gratuitamente por 15 dias!",
+      "date": "2024-03-12",
+      "authors": ["Guilherme Rafael"],
+      "banner": "/banner.webp"
+    },
+    {
+      "title": "Encontrar um nome para minha clínica veterinária?",
+      "slug": "encontrar-um-nome-para-clinica-veterinaria",
+      "description": "Encontre o nome perfeito para sua clínica veterinária com o Namelix. Depois, verifique a disponibilidade da marca e inicie o registro. Simplifique seu processo de abertura de empresa.",
+      "date": "2024-03-15",
+      "authors": ["Guilherme Rafael"],
+      "banner": "/banner.webp"
+    },
+    {
+      "title": "Como atrair clientes para clínica veterinária?",
+      "slug": "como-atrair-clientes",
+      "description": "Em um mundo empresarial cada vez mais competitivo e dinâmico, a eficiência operacional e a tomada de decisões informadas são cruciais para o sucesso de qualquer empreendimento.",
+      "date": "2024-03-30",
+      "authors": ["Julio Moratelli"],
+      "banner": "/banner.webp"
+    }
+  ]
+}
