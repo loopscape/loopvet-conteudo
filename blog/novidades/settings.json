@@ -9,14 +9,6 @@
       "date": "2024-08-13",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
-    },
-    {
-      "title": "Módulo Fiscal",
-      "slug": "modulo-fiscal",
-      "description": "Lançamento do módulo fiscal no sistema.",
-      "date": "2024-05-11",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
     }
   ]
 }
