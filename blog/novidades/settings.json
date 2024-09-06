@@ -9,6 +9,14 @@
       "date": "2024-08-13",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
+    },
+    {
+      "title": "06/09/2024",
+      "slug": "06-09-2024",
+      "description": "Novidades de Setembro.",
+      "date": "2024-09-06",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
     }
   ]
 }
