@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "title": "Configurar Área Clínica",
+  "description": "Aprenda a configurar a área clínica.",
+  "icon": "Stethoscope",
+  "docs": [
+    {
+      "title": "3.3 Tipos de receitas",
+      "slug": "3-3-tipos-de-receitas"
+    }
+  ]
+}
