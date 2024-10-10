@@ -2,43 +2,5 @@
   "id": 4,
   "title": "Clientes, Animais e Área Clínica",
   "description": "Aprenda a cadastrar e configurar dados para a área clínica.",
-  "icon": "PawPrint",
-  "docs": [
-    {
-      "title": "4.1 Cadastro de clientes",
-      "slug": "4-1-cadastro-de-clientes"
-    },
-    {
-      "title": "4.2 Cadastro de animais",
-      "slug": "4-2-cadastro-de-animais"
-    },
-    {
-      "title": "4.3 Novo atendimento",
-      "slug": "4-3-novo-atendimento"
-    },
-    {
-      "title": "4.4 Aplicar ou agendar uma vacina",
-      "slug": "4-4-aplicar-ou-agendar-uma-vacina"
-    },
-    {
-      "title": "4.5 Nova receita",
-      "slug": "4-5-nova-receita"
-    },
-    {
-      "title": "4.6 Registrar uma patologia",
-      "slug": "4-6-registrar-uma-patologia"
-    },
-    {
-      "title": "4.7 Registrar peso",
-      "slug": "4-7-registrar-peso"
-    },
-    {
-      "title": "4.8 Registrar observações",
-      "slug": "4-8-registrar-observacoes"
-    },
-    {
-      "title": "4.9 Histórico Clínico",
-      "slug": "4-9-historico-clinico"
-    }
-  ]
+  "icon": "PawPrint"
 }
