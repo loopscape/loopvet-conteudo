@@ -17,6 +17,14 @@
       "date": "2024-09-06",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
+    },
+    {
+      "title": "10/10/2024",
+      "slug": "10-10-2024",
+      "description": "Novidades de Outubro.",
+      "date": "2024-10-10",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
     }
   ]
 }
