@@ -25,6 +25,14 @@
       "date": "2024-10-10",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
+    },
+    {
+      "title": "Horário Especial de Atendimento - Festas de Fim de Ano",
+      "slug": "24-12-2024",
+      "description": "",
+      "date": "2024-12-24",
+      "authors": ["Afonso Piva"],
+      "banner": "/aviso-natal.jpg"
     }
   ]
 }
