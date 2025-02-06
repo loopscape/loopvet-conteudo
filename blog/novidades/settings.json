@@ -33,6 +33,14 @@
       "date": "2024-12-24",
       "authors": ["Afonso Piva"],
       "banner": "/aviso-natal.png"
+    },
+    {
+      "title": "06/02/2025",
+      "slug": "06-02-2025",
+      "description": "Novidades de Fevereiro.",
+      "date": "2025-02-06",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
     }
   ]
 }
