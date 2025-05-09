@@ -41,6 +41,14 @@
       "date": "2025-02-06",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
+    },
+    {
+      "title": "NOVIDADES DO SISTEMA – Lembretes por WhatsApp",
+      "slug": "lembretes-whatsapp",
+      "description": "Agora você pode enviar lembretes automáticos pelo WhatsApp diretamente pelo sistema!",
+      "date": "2025-05-09",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
     }
   ]
 }
