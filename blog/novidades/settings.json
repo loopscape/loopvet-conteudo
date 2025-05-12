@@ -49,6 +49,14 @@
       "date": "2025-05-09",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
+    },
+    {
+      "title": "12/05/2025",
+      "slug": "12-05-2025",
+      "description": "Novidades de Maio",
+      "date": "2025-05-12",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
     }
   ]
 }
