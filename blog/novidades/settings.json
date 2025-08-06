@@ -57,6 +57,14 @@
       "date": "2025-05-12",
       "authors": ["Afonso Piva"],
       "banner": "/banner.webp"
+    },
+    {
+      "title": "Deixe o seu Depoimento",
+      "slug": "Depoimento",
+      "description": "Deixe o seu Depoimento",
+      "date": "2025-08-06",
+      "authors": ["Afonso Piva"],
+      "banner": "/banner.webp"
     }
   ]
 }
