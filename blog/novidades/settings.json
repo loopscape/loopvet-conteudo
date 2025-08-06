@@ -1,70 +1,70 @@
 {
-  "title": "Novidades",
-  "description": "Aqui estão listados todas as novas funcionalidades do sistema.",
-  "posts": [
-    {
-      "title": "Versão 2.0.0",
-      "slug": "v-2.0.0",
-      "description": "Lançamento da versão 2.0.0 do sistema.",
-      "date": "2024-08-13",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
-    },
-    {
-      "title": "06/09/2024",
-      "slug": "06-09-2024",
-      "description": "Novidades de Setembro.",
-      "date": "2024-09-06",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
-    },
-    {
-      "title": "10/10/2024",
-      "slug": "10-10-2024",
-      "description": "Novidades de Outubro.",
-      "date": "2024-10-10",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
-    },
-    {
-      "title": "Horário Especial de Atendimento - Festas de Fim de Ano",
-      "slug": "24-12-2024",
-      "description": "",
-      "date": "2024-12-24",
-      "authors": ["Afonso Piva"],
-      "banner": "/aviso-natal.png"
-    },
-    {
-      "title": "06/02/2025",
-      "slug": "06-02-2025",
-      "description": "Novidades de Fevereiro.",
-      "date": "2025-02-06",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
-    },
-    {
-      "title": "Lembretes por WhatsApp",
-      "slug": "lembretes-whatsapp",
-      "description": "Agora você pode enviar lembretes automáticos pelo WhatsApp diretamente pelo sistema!",
-      "date": "2025-05-09",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
-    },
-    {
-      "title": "12/05/2025",
-      "slug": "12-05-2025",
-      "description": "Novidades de Maio",
-      "date": "2025-05-12",
-      "authors": ["Afonso Piva"],
-      "banner": "/banner.webp"
-    },
-    {
-      "title": "Deixe o seu Depoimento",
-      "slug": "Depoimento",
-      "description": "Deixe o seu depoimento sincero sobre o sistema e ganhe 25,00R$ em creditos para utilizar no modulo de WhatsApp",
-      "date": "2025-08-06",
-      "authors": ["Afonso Piva"],
-      "banner": "/Banner.png"
-    }
-  ]
+	"title": "Novidades",
+	"description": "Aqui estão listados todas as novas funcionalidades do sistema.",
+	"posts": [
+		{
+			"title": "Versão 2.0.0",
+			"slug": "v-2.0.0",
+			"description": "Lançamento da versão 2.0.0 do sistema.",
+			"date": "2024-08-13",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		},
+		{
+			"title": "06/09/2024",
+			"slug": "06-09-2024",
+			"description": "Novidades de Setembro.",
+			"date": "2024-09-06",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		},
+		{
+			"title": "10/10/2024",
+			"slug": "10-10-2024",
+			"description": "Novidades de Outubro.",
+			"date": "2024-10-10",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		},
+		{
+			"title": "Horário Especial de Atendimento - Festas de Fim de Ano",
+			"slug": "24-12-2024",
+			"description": "",
+			"date": "2024-12-24",
+			"authors": ["Afonso Piva"],
+			"banner": "/aviso-natal.png"
+		},
+		{
+			"title": "06/02/2025",
+			"slug": "06-02-2025",
+			"description": "Novidades de Fevereiro.",
+			"date": "2025-02-06",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		},
+		{
+			"title": "Lembretes por WhatsApp",
+			"slug": "lembretes-whatsapp",
+			"description": "Agora você pode enviar lembretes automáticos pelo WhatsApp diretamente pelo sistema!",
+			"date": "2025-05-09",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		},
+		{
+			"title": "12/05/2025",
+			"slug": "12-05-2025",
+			"description": "Novidades de Maio",
+			"date": "2025-05-12",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		},
+		{
+			"title": "Deixe o seu Depoimento",
+			"slug": "depoimento",
+			"description": "Deixe o seu depoimento sincero sobre o sistema e ganhe R$ 25 em créditos para utilizar no módulo de WhatsApp",
+			"date": "2025-08-06",
+			"authors": ["Afonso Piva"],
+			"banner": "/banner.webp"
+		}
+	]
 }
